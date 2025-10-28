@@ -50,6 +50,9 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as server_socket:
 ```
 ## OUTPUT
 <img width="972" height="353" alt="Screenshot 2025-10-28 082121" src="https://github.com/user-attachments/assets/902704cb-84ae-4285-b3f9-5b2beaa78243" />
-## RESULT
+
+## RESULT  
+
+
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
 was successfully created and executed.
